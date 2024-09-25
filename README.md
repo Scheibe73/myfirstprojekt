@@ -1,4 +1,4 @@
-#**Markdown**
+# ***Markdown***
 ---
 Genau wie HTML – oder auch LaTeX – ist Markdown eine Auszeichnungssprache. Im Gegensatz zu den genannten soll Markdown aber möglichst leicht von Menschen zu lesen sein. Jedes Auszeichnungselement soll nicht abstrakt, sondern nah an der eigentlichen Bedeutung sein. Am einfachsten lässt sich das Prinzip an einem Beispiel erklären: Möchte man in HTML ein Wort fett hervorheben, nutzt man dafür entweder das <b>- oder das <strong>-Tag. Bei Markdown reicht es aus, wenn man den Text in Doppelsternchen setzt.
 ---
@@ -17,20 +17,22 @@ GOOD LUCK| :stuck_out_tongue_winking_eye:
 |***   |Dreifachsternchen|Shift+++   |Text Fett und Kursiv|
 |~~    |Tilde(Doppeltilde)|AltGr+    |Text durchgestrichen|
 |---   |Minus 3mal |-                |duchgezogener Strich links nach rechts|
-|#     |Raute      |Raute            |Überschrift1 (1.Ebene)|
-|##    |Raute      |Raute 2mal       |Überschrift2 (2.Ebene)|
-|###   |Raute      |Raute 3mal       |Überschrift3 (3.Ebene)|
-|####  |Raute      |Raute 4mal       |Überschrift4 (4.Ebene)|
-|##### |Raute usw. |Raute 5mal       |Überschrift5 (5.Ebene)|
+|#     |Raute      |Raute            |Überschrift 1 (1.Ebene)|
+|##    |Raute      |Raute 2mal       |Überschrift 2 (2.Ebene)|
+|###   |Raute      |Raute 3mal       |Überschrift 3 (3.Ebene)|
+|####  |Raute      |Raute 4mal       |Überschrift 4 (4.Ebene)|
+|##### |Raute usw. |Raute 5mal       |Überschrift 5 (5.Ebene)|
 
 ## ZITATE
 |Symbole|Fachbegriff|Tastenkombination|Darstellung|
 |-------|-----------|-----------------|-----------|
 |>     |Kleiner als|Shift kleinerals |Rückt Text wie ein ZITAT ein|
 
-LISTEN
-
-|1.    |1Punkt     |1.               |Erstellt Listenpunkt1 (LISTE)|
+## LISTEN
+|Symbole|Fachbegriff|Tastenkombination|Darstellung|
+|-------|-----------|-----------------|-----------|
+|1.    |1Punkt     |Zahl mit direkt darauffolgendem Punkt|Erstellt Listenpunkt 1 (LISTE)|
 |2.    |2Punkt usw.|2.               |Erstellt Listenpunkt 2|
 
+##
 
