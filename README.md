@@ -29,10 +29,13 @@ GOOD LUCK| :stuck_out_tongue_winking_eye:
 |>     |Kleiner als|Shift kleinerals |Rückt Text wie ein ZITAT ein|
 
 ## LISTEN
-|Symbole|Fachbegriff|Tastenkombination|Darstellung|
+Symbole|Fachbegriff|Tastenkombination|Darstellung|
 |-------|-----------|-----------------|-----------|
 |1.    |1Punkt     |Zahl mit direkt darauffolgendem Punkt|Erstellt Listenpunkt 1 (LISTE)|
-|2.    |2Punkt usw.|2.               |Erstellt Listenpunkt 2|
+|2.    |2Punkt usw.|                  |Erstellt Listenpunkt 2|
 
-##
-
+## CHECKLISTE
+|Symbole|Fachbegriff|Tastenkombination|Darstellung|
+|-------|-----------|-----------------|-----------|
+|[ ] A  |eckige Klammer auf/zu|AltGr8,9|[x]       |
+|[ ] B  |           |                 | [ ]       |
