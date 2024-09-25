@@ -8,3 +8,13 @@ GOOD LUCK| :stuck_out_tongue_winking_eye:
 Markdown Codes
 |Symbol|Fachbegriff|Tastenkombination|Darstellung|
 |------|-----------|-----------------|-----------|
+|*     |Sternchen  |Shift+           |Text Kursiv|
+|**    |Doppelsternchen|Shift++      |Text Fett|
+|***   |Dreifachsternchen|Shift+++   |Text Fett und Kursiv|
+|~~    |Tilde(Doppeltilde)|AltGr+    |Text durchgestrichen|
+|---   |Minus 3mal |-                |duchgezogener Strich links nach rechts|
+|#     |Raute      |Raute            |Überschrift1 (1.Ebene)|
+|##    |Raute      |Raute 2mal       |Überschrift2 (2.Ebene)|
+|###   |Raute      |Raute 3mal       |Überschrift3 (3.Ebene)|
+|####  |Raute      |Raute 4mal       |Überschrift4 (4.Ebene)|
+|##### |Raute      |Raute 4mal       |Überschrift5 (5.Ebene)|
