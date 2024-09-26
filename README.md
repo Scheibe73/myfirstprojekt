@@ -39,3 +39,7 @@ Symbole|Fachbegriff|Tastenkombination|Darstellung|
 |-------|-----------|-----------------|-----------|
 |[ ] A  |eckige Klammer auf/zu|AltGr8,9|[x]       |
 |[ ] B  |           |                 | [ ]       |
+
+
+![Alternativtext zb hund auf ball](link) pixelzahl manuell festlegen
+seite picsum photos zur Foto download
